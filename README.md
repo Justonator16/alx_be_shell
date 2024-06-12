@@ -1,2 +1,4 @@
-# alx_be_shell
-Shell permissions practice
+#!/bin/bash
+
+## 0-iam_betty
+This script switches the current user to the user `betty`.
